@@ -7,6 +7,7 @@ const getTasksFromStorage = () => {
   return tasks;
 };
 
+
 const saveTasksToStorage = (tasks) => {
   localStorage.setItem('tasks', JSON.stringify(tasks));
 };
