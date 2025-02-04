@@ -8,8 +8,24 @@
     "icons": [
       {
         "src": "/icon.png",
-        "sizes": "192x192",
+        "sizes": "384x384",
         "type": "image/png"
+      }
+    ],
+    "screenshots": [
+      {
+        "src": "/bg.png",
+        "sizes": "829x549",
+        "type": "image/png",
+        "form_factor": "wide",
+        "description": "A screenshot of the Todo list app's home screen"
+      },
+      {
+        "src": "/bg.png",
+        "sizes": "829x549",
+        "type": "image/png",
+        "description": "A screenshot of the Todo list app's home screen"
+
       }
     ]
   }
